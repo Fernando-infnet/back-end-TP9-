@@ -1,4 +1,4 @@
-## Resultado do Terminal
+Resultado do Terminal
 
 Turmas de 1||Fernando:
 - código: 41246
