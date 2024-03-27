@@ -4,10 +4,12 @@ Turmas de 1||Fernando:
 - código: 41246
 - professor: Renata Ferreira
 - disciplina: Desenvolvimento Back-end
+
 Turmas de 2||Maria:
 - código: 72567
 - professor: Carlos Braga
 - disciplina: Java
+
 Turmas de 3||Alice:
 - código: 41246
 - professor: Renata Ferreira
@@ -15,10 +17,12 @@ Turmas de 3||Alice:
 - código: 72567
 - professor: Carlos Braga
 - disciplina: Java
+
 Turmas de 4||Luana:
 - código: 72567
 - professor: Carlos Braga
 - disciplina: Java
+
 Turmas de 5||Biatriz:
 - código: 72567
 - professor: Carlos Braga
@@ -26,6 +30,7 @@ Turmas de 5||Biatriz:
 - código: 41246
 - professor: Renata Ferreira
 - disciplina: Desenvolvimento Back-end
+
 Turmas de 201||Biatriz:
 - código: 72567
 - professor: Carlos Braga
@@ -33,6 +38,7 @@ Turmas de 201||Biatriz:
 - código: 41246
 - professor: Renata Ferreira
 - disciplina: Desenvolvimento Back-end
+
 Turmas de 6 alunos:
 - Fernando
 - Alice
@@ -40,6 +46,7 @@ Turmas de 6 alunos:
 - Queiroz
 - Vanessa
 - Carla
+
 Turmas de 8 alunos:
 - Maria
 - Alice
